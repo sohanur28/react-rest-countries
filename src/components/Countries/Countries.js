@@ -3,7 +3,7 @@ import React from 'react';
 const Countries = () => {
     return (
         <div>
-            <h2>Countries in Other File.</h2>
+            <h1>Hello from Countries.</h1>
         </div>
     );
 };
